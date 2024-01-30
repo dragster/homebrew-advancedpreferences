@@ -1,5 +1,5 @@
 cask "advancedsettings" do
-  version "0.5"
+  version "0.6"
   sha256 :no_check
 
   url "https://www.dragster.dev/advancedsettings/advancedsettings-#{version}.dmg"
